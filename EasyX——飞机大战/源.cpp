@@ -340,9 +340,8 @@ bool play()
 	while (is_play)
 	{
 		BeginBatchDraw();
-
-		backgrand.show();
 		Sleep(2);
+		backgrand.show();
 		//H.control();
 		//H.show();
 
